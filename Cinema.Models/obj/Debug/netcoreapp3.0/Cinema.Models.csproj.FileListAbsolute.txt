@@ -14,3 +14,11 @@ E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinem
 E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.AssemblyInfo.cs
 E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.dll
 E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.pdb
+C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\bin\Debug\netcoreapp3.0\Cinema.Models.deps.json
+C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\bin\Debug\netcoreapp3.0\Cinema.Models.dll
+C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\bin\Debug\netcoreapp3.0\Cinema.Models.pdb
+C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.csprojAssemblyReference.cache
+C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.AssemblyInfoInputs.cache
+C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.AssemblyInfo.cs
+C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.dll
+C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\Cinema.Models.csproj": {}
+    "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\Cinema.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\Cinema.Models.csproj": {
+    "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\Cinema.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\Cinema.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\Cinema.Models.csproj",
         "projectName": "Cinema.Models",
-        "projectPath": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\Cinema.Models.csproj",
+        "projectPath": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\Cinema.Models.csproj",
         "packagesPath": "C:\\Users\\Ayron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\obj\\",
+        "outputPath": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

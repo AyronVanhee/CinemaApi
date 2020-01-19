@@ -10538,11 +10538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Api\\Cinema.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Api\\Cinema.Api.csproj",
       "projectName": "Cinema.Api",
-      "projectPath": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Api\\Cinema.Api.csproj",
+      "projectPath": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Api\\Cinema.Api.csproj",
       "packagesPath": "C:\\Users\\Ayron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Api\\obj\\",
+      "outputPath": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -10563,8 +10563,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\Cinema.Models.csproj": {
-              "projectPath": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\Cinema.Models.csproj"
+            "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\Cinema.Models.csproj": {
+              "projectPath": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\Cinema.Models.csproj"
             }
           }
         }

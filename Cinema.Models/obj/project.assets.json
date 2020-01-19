@@ -5672,11 +5672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\Cinema.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\Cinema.Models.csproj",
       "projectName": "Cinema.Models",
-      "projectPath": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\Cinema.Models.csproj",
+      "projectPath": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\Cinema.Models.csproj",
       "packagesPath": "C:\\Users\\Ayron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ayron\\Music\\Api\\Cinema.Project\\Cinema.Models\\obj\\",
+      "outputPath": "C:\\Users\\Ayron\\Documents\\CinemaApi\\Cinema.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
