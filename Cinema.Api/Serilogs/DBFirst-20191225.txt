@@ -1,0 +1,1 @@
+2019-12-25 16:59:18.400 +01:00 [Warning] Serilog wordt opgestart

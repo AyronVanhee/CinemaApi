@@ -1,0 +1,12 @@
+2019-12-10 17:53:13.782 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 17:58:51.186 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 18:03:02.634 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 18:03:41.113 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 18:13:43.920 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 18:14:35.197 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 18:14:58.613 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 18:16:21.109 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 18:36:10.009 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 18:36:29.800 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 18:36:53.687 +01:00 [Warning] Serilog wordt opgestart
+2019-12-10 19:03:40.270 +01:00 [Warning] Serilog wordt opgestart

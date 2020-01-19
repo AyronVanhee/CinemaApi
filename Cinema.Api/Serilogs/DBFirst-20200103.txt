@@ -1,0 +1,1 @@
+2020-01-03 14:21:45.178 +01:00 [Warning] Serilog wordt opgestart

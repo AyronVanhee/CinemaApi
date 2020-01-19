@@ -1,0 +1,4 @@
+2020-01-11 12:35:46.337 +01:00 [Warning] Serilog wordt opgestart
+2020-01-11 12:44:58.648 +01:00 [Warning] Serilog wordt opgestart
+2020-01-11 16:27:15.590 +01:00 [Warning] Serilog wordt opgestart
+2020-01-11 18:06:48.083 +01:00 [Warning] Serilog wordt opgestart

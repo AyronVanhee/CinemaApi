@@ -1,0 +1,4 @@
+2019-12-07 00:39:54.227 +01:00 [Warning] Serilog wordt opgestart
+2019-12-07 00:40:57.495 +01:00 [Warning] Serilog wordt opgestart
+2019-12-07 00:49:34.291 +01:00 [Warning] Serilog wordt opgestart
+2019-12-07 14:09:07.935 +01:00 [Warning] Serilog wordt opgestart

@@ -1,0 +1,16 @@
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Models\Cinema.Models\bin\Release\netcoreapp3.0\Cinema.Models.deps.json
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Models\Cinema.Models\bin\Release\netcoreapp3.0\Cinema.Models.dll
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Models\Cinema.Models\bin\Release\netcoreapp3.0\Cinema.Models.pdb
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Models\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.csprojAssemblyReference.cache
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Models\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.AssemblyInfoInputs.cache
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Models\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.AssemblyInfo.cs
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Models\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.dll
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Models\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.pdb
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\bin\Release\netcoreapp3.0\Cinema.Models.deps.json
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\bin\Release\netcoreapp3.0\Cinema.Models.dll
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\bin\Release\netcoreapp3.0\Cinema.Models.pdb
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.csprojAssemblyReference.cache
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.AssemblyInfoInputs.cache
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.AssemblyInfo.cs
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.dll
+E:\3NMCT FullStack&Framework\ProjectFullStack-Framework\Api\Cinema.Project\Cinema.Models\obj\Release\netcoreapp3.0\Cinema.Models.pdb
