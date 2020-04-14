@@ -182,8 +182,6 @@ namespace Cinema.Api
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseCors("MAGI");
-
             app.UseHttpsRedirection();
           
             //2.3 Swagger
@@ -200,11 +198,13 @@ namespace Cinema.Api
                 KeepAliveInterval = TimeSpan.FromSeconds(180),
                 ReceiveBufferSize = 4 * 1024
             });
+   
+            app.UseRouting();
+
+            app.UseCors("MAGI");
 
             app.UseAuthentication();
             app.UseAuthorization();
-
-            app.UseRouting();
 
             app.UseEndpoints(endpoints =>
             {

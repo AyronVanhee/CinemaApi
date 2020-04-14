@@ -19,7 +19,7 @@ namespace Cinema.Api.Controllers
     [Route("api/[controller]")]
     //[Route("api/{version:apiVersion}/[controller]")]
     [ApiController]
-    //[EnableCors("MAGI")]
+    [EnableCors("MAGI")]
     [Consumes("application/json", "application/json-path+json", "multipart/form-data", "application/form-data")]
 
     public class MovieRoomController : ControllerBase

@@ -22,7 +22,7 @@ namespace Cinema.Api.Controllers
 {
     [Route("api/[controller]")]
     //[Route("api/{version:apiVersion}/[controller]")]
-    //[EnableCors("MAGI")]
+    [EnableCors("MAGI")]
     [ApiController]
     [Consumes("application/json", "application/json-path+json", "multipart/form-data", "application/form-data")]
 
