@@ -22,3 +22,12 @@ C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.
 C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.AssemblyInfo.cs
 C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.dll
 C:\Users\Ayron\Documents\CinemaApi\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.pdb
+E:\API\Cinema.Models\bin\Debug\netcoreapp3.0\Cinema.Models.deps.json
+E:\API\Cinema.Models\bin\Debug\netcoreapp3.0\Cinema.Models.dll
+E:\API\Cinema.Models\bin\Debug\netcoreapp3.0\Cinema.Models.pdb
+E:\API\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.csprojAssemblyReference.cache
+E:\API\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.csproj.CoreCompileInputs.cache
+E:\API\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.AssemblyInfoInputs.cache
+E:\API\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.AssemblyInfo.cs
+E:\API\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.dll
+E:\API\Cinema.Models\obj\Debug\netcoreapp3.0\Cinema.Models.pdb
